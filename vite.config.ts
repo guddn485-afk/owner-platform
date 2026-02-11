@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   // 1. 여기에 본인의 깃허브 저장소 이름을 넣으세요 (슬래시 필수!)
   // 예: base: '/my-react-app/',
-  base: '//', 
+  base: '/ https://guddn485-afk.github.io/owner-platform/', 
 
   plugins: [react()],
   
